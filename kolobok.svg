@@ -1,0 +1,23 @@
+<svg width="570" height="270" xmlns="http://www.w3.org/2000/svg">
+    <ellipse rx="60" ry="18" cx="200" cy="248" fill="lightgray" />
+    <ellipse rx="60" ry="18" cx="450" cy="248" fill="lightgray" />
+    <circle r="100" cx="200" cy="150" fill="orange" />
+    <circle r="40" cx="200" cy="130" fill="white" />
+    <circle r="40" cx="245" cy="130" fill="white" />
+    <circle r="8" cx="250" cy="130" fill="black" />
+    <circle r="8" cx="205" cy="130" fill="black" />
+    <circle r="12" cx="225" cy="170" fill="black" />
+    <ellipse rx="16" ry="8" cx="210" cy="205" fill="crimson" />
+    <ellipse rx="62" ry="23" cx="108" cy="150" fill="orange" transform="rotate(14)" />
+    <polygon points="11,155 41,147 30,178" fill="white" />
+    <polygon points="120,95 120,55 160,65" fill="orange" />
+    <polygon points="205,65 257,41 265,80" fill="orange" />
+    <polygon points="125,85 125,61 146,67" fill="black" />
+    <polygon points="236,56 254,47 259,70" fill="black" />
+    <circle r="100" cx="450" cy="150" fill="gold" />
+    <circle r="40" cx="405" cy="130" fill="white" />
+    <circle r="40" cx="450" cy="130" fill="white" />
+    <circle r="8" cx="400" cy="130" fill="black" />
+    <circle r="8" cx="445" cy="130" fill="black" />
+    <ellipse rx="8" ry="16" cx="430" cy="205" fill="crimson" />
+</svg>
